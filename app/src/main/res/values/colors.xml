@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#488FB1</color>
+    <color name="purple_500">#488FB1</color>
+    <color name="purple_700">#4B7BE5</color>
+    <color name="teal_200">#488FB1</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#B7E5DD</color>
+
+    <color name="stroke">#4EAFDA</color>
+    <color name="messColor">#ACB2D1</color>
+    <color name="buttob">#1e1ee4</color>
+    <color name="nextButton">#8282da</color>
+
+    <color name="chatColor">#30A0D3</color>
+    <color name="layout">#7C7CBD</color>
+    <color name="layoutuser">#9E9EC6</color>
+
+    <color name="messUserColor">#84DBE6</color>
+    <color name="messBotColor">#116E98</color>
+    <color name="backUserColor">#3587AC</color>
+    <color name="backBotColor">#79CAEE</color>
+
+
+
+
+
+</resources>
